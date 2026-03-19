@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StaySphere.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3594a1b93ae165a6953814658fd70adf0f48fa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("StaySphere.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StaySphere.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
